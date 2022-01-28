@@ -23,7 +23,6 @@ namespace Dados
         }
         #endregion
 
-
         #region Methods
         /// <summary>
         /// insere um registo na lista de registos

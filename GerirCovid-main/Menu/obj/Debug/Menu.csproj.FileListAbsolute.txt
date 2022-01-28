@@ -58,3 +58,19 @@ C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Menu\bin\Debug\Exceptions.pdb
 C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Menu\obj\Debug\Menu.csproj.CopyComplete
 C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Menu\bin\Debug\Inputs.dll
 C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Menu\bin\Debug\Inputs.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\Menu.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\Menu.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\BO.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\BR.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\Exceptions.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\Inputs.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\DaDos.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\BO.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\BR.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\Exceptions.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\Inputs.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\bin\Debug\DaDos.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\obj\Debug\Menu.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\Menu\obj\Debug\Menu.pdb

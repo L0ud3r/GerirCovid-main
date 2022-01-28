@@ -48,3 +48,16 @@ C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\DaDos\obj\Debug\DaDos.dll
 C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\DaDos\obj\Debug\DaDos.pdb
 C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\DaDos\bin\Debug\Inputs.dll
 C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\DaDos\bin\Debug\Inputs.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\DaDos.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\DaDos.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\BO.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\BR.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\Inputs.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\BO.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\BR.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\bin\Debug\Inputs.pdb
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\obj\Debug\Dados.csprojAssemblyReference.cache
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\obj\Debug\Dados.csproj.CopyComplete
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\obj\Debug\DaDos.dll
+C:\Programming\LP2\EntregaFASE2TRABALHOPRATICO\GerirCovid-main\GerirCovid-main\DaDos\obj\Debug\DaDos.pdb

@@ -9,7 +9,7 @@ namespace BO
     //enumeração do genero de uma Pessoa
     public enum GENERO { Masculino, Feminino };
     //enumeração do estado de uma Pessoa
-    public enum ESTADO { Infetado, Morto, Recuperado, Vacinado };
+    public enum ESTADO { Infetado, Morto, Recuperado, Vacinado, Nao_Infetado };
     //enumeração da regiao de uma Pessoa
     public enum REGIAO { Norte, Centro, Sul, Ilhas };
     //enumeração do tema que a pessoa deseja ordenar no metodo ordenarLista
@@ -119,18 +119,6 @@ namespace BO
         }
         #endregion
 
-        #region Overrides
-
-
-
-        #endregion
-
-        #region Operators
-
-
-
-        #endregion
-
         /// <summary>
         /// Metodos utilizados para o objeto Pessoa
         /// </summary>
@@ -147,7 +135,14 @@ namespace BO
             Console.WriteLine(" Data de Nascimento : " + p.DataNascimento.ToShortDateString()); //para nao mostrar horas
             Console.WriteLine(" Genero             : " + p.Genero);
             Console.WriteLine(" Regiao             : " + p.Regiao);
-            Console.WriteLine(" Estado             : " + p.Estado);
+            if (p.Estado == ESTADO.Nao_Infetado)
+            {
+                Console.WriteLine(" Estado             : Nao Infetado");
+            }
+            else
+            {
+                Console.WriteLine(" Estado             : " + p.Estado);
+            }
             Console.WriteLine(" Qt.Testes          : " + p.TotTestes);
             Console.WriteLine("----------------------------------------------------------");
         }
@@ -201,7 +196,7 @@ namespace BO
 
             #region Resultado de teste
             int op = PessoaInput.ObterOP();
-        #endregion
+            #endregion
 
             Pessoa p = new Pessoa(nome, idade, cc, date, regiao, genero);
 
@@ -219,6 +214,15 @@ namespace BO
             p.Estado = ESTADO.Morto;
             RegistosRegras.CriarRegisto("Declaracao de obito", p.Nome);
             return true;
+        }
+
+        /// <summary>
+        /// Alterar estado de pessoa da lista para nao infetada
+        /// </summary>
+        /// <param name="p"></param>
+        public static void AlterarEstadoNaoInf(ref Pessoa p)
+        {
+            p.Estado = ESTADO.Nao_Infetado;
         }
 
         #endregion

@@ -69,6 +69,7 @@ namespace BR
             }
             else
             {
+                Pessoa.AlterarEstadoNaoInf(ref p);
                 Registos.InsereRegisto(new Registo("Teste (Negativo)", p.Nome));
             }
         }
