@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\Inputs.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\Inputs.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BO.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BR.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\DaDos.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BO.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\BR.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\bin\Debug\DaDos.pdb
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.csproj.CopyComplete
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.dll
+C:\Users\Asus\Desktop\Entrega LP2\GerirCovid-main\Inputs\obj\Debug\Inputs.pdb
